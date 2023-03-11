@@ -1,0 +1,29 @@
+.formacao__academica{
+    display: flex;
+    
+    flex-direction: column;
+    align-items: center;
+    background-color: #EAF2FD;
+    
+}
+
+.formacao__academica h1{
+    font-size: 22px;
+    font-weight: 700;
+    text-align: center;
+    padding-top: 2rem;
+    padding-bottom: 1.5rem;
+}
+
+.formacao__academica h2{
+    padding-top: 1rem;
+    font-size: 16px;
+    font-weight: 700;
+}
+
+.formacao__academica p{
+    padding-top: .5rem;
+    padding-bottom: 1.5rem;
+    font-size: 14px;
+    font-weight: 500;
+}

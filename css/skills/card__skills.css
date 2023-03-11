@@ -1,0 +1,14 @@
+.card__skills{
+    background-color: white;
+    width: 100px;
+    height: 80px;
+    border-radius: 5px;
+    margin: 1rem;
+    padding: .5rem;
+
+}
+
+.card__skills p{
+    font-size: 16px;
+    font-weight: 700;
+}

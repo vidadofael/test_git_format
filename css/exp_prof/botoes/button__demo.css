@@ -1,0 +1,19 @@
+.button__demo{
+    background-color: #2A7AE4;
+    border: 1px solid #2A7AE4;
+    color: white;
+    font-family: 'Raleway', sans-serif;
+    padding: .5rem 1rem;
+    font-size: 14px;
+    font-weight: 600;
+    margin-left: 1rem;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+
+.button__demo:hover{
+    background-color: white;
+    color: #2A7AE4;
+    transform: .2s ease-in-out;
+}

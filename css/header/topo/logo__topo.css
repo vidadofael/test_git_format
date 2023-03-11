@@ -1,0 +1,5 @@
+.logo__topo{
+    display: inline-flex;
+    justify-content: left;
+    align-items: center;
+}
